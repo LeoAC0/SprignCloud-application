@@ -1,7 +1,7 @@
 server:
   port: ${PORT:8889}
 
-message: Probando un mensaje nuevo. A ver si esto aparece ahora.
+message: Probando un mensaje nuevo. Y ahora?
 
 
 
