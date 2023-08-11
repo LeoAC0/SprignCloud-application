@@ -1,0 +1,7 @@
+server:
+	port: ${PORT:8889}
+
+message: Soy un mensaje del cliente.
+
+
+
